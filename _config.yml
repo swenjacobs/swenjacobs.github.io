@@ -19,11 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tenure-track faculty at CISPA Helmholtz Center for Information Security. Formal Methods enthusiast. I have a tender spot in my heart for cripples and bastards and broken things.
 twitter_username: JacobsSwen
 github_username: swenjacobs
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
 markdown: kramdown
+theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
