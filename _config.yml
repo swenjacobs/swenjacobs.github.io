@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tenure-track faculty at CISPA Helmholtz Center for Information Security. Formal Methods enthusiast. I have a tender spot in my heart for cripples and bastards and broken things.
 twitter_username: JacobsSwen
 github_username: swenjacobs
-minimal_mistakes_skin: air
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
