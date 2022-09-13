@@ -23,6 +23,7 @@ twitter_username: JacobsSwen
 github_username: swenjacobs
 minimal_mistakes_skin: dark
 search: false
+<link rel="stylesheet" href="/assets/css/academicons.min.css"/>
 
 # Build settings
 markdown: kramdown
@@ -72,7 +73,7 @@ author:
       icon: "/assets/icons/dblp_icon.png"
       url: "https://dblp.org/pers/hd/j/Jacobs:Swen"
     - label: "Google Scholar"
-      icon: "/assets/icons/google_scholar_icon.png"
+      icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.de/citations?user=pofIiPIAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
