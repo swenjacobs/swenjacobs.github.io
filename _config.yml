@@ -23,7 +23,6 @@ twitter_username: JacobsSwen
 github_username: swenjacobs
 minimal_mistakes_skin: dark
 search: false
-<link rel="stylesheet" href="/assets/css/academicons.min.css"/>
 
 # Build settings
 markdown: kramdown
