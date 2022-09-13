@@ -10,24 +10,24 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 h1 {
-  font-size: 25px;
+  font-size: $type-size-2;
 }
 
 
 h2 {
-  font-size: 20px;
+  font-size: $type-size-3;
 }
 
 
 h3 {
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 html {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
 
 p {
   font-family: $global-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
 }
