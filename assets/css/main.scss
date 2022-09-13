@@ -10,6 +10,20 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 h1 {
+  font-size: $type-size-3;
+}
+
+
+h2 {
+  font-size: $type-size-4;
+}
+
+
+h1 {
+  font-size: $type-size-5;
+}
+
+html {
   font-size: $type-size-6;
 }
 
