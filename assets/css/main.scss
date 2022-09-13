@@ -18,16 +18,11 @@ h2 {
   font-size: $type-size-3;
 }
 
-
-h3 {
-  font-size: $type-size-4;
-}
-
 body {
-  font-size: $type-size-4;
+  font-size: $type-size-3;
 }
 
-div {
+div, p {
   font-family: $global-font-family;
-  font-size: $type-size-5;
+  font-size: $type-size-2;
 }
