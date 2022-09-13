@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tenure-track faculty at CISPA Helmholtz Center for Information Security. Formal Methods enthusiast. I have a tender spot in my heart for cripples and bastards and broken things.
 twitter_username: JacobsSwen
 github_username: swenjacobs
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: dark
+search: false
 
 # Build settings
 markdown: kramdown
@@ -57,12 +57,21 @@ plugins:
 
 author:
   name   : "Swen Jacobs"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Tenure-track faculty at CISPA.     Formal Methods Enthusiast."
+  avatar : "/assets/images/sj-cut.png"
+  bio    : "Tenure-track faculty at CISPA. Formal Methods Enthusiast."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-o"
+      url: "mailto:jacobs@cispa.de"
     - label: "CISPA Website"
       icon: "fas fa-fw fa-link"
       url: "https://cispa.de/en/people/swen.jacobs"
+    - label: "DBLP"
+      icon: "/assets/icons/dblp_icon.png"
+      url: "https://dblp.org/pers/hd/j/Jacobs:Swen"
+    - label: "Google Scholar"
+      icon: "/assets/icons/google_scholar_icon.png"
+      url: "https://scholar.google.de/citations?user=pofIiPIAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JacobsSwen"
