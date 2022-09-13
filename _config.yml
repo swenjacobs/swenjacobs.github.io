@@ -63,7 +63,7 @@ author:
   bio    : "Tenure-track faculty at CISPA. Formal Methods Enthusiast."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-o"
+      icon: "fas fa-fw fa-at"
       url: "mailto:jacobs@cispa.de"
     - label: "CISPA Website"
       icon: "fas fa-fw fa-link"
