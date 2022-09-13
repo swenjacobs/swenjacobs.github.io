@@ -9,20 +9,16 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+body {
+  font-size: $type-size-3;
+}
+
 h1 {
   font-size: $type-size-2;
 }
 
 
 h2 {
-  font-size: $type-size-3;
-}
-
-body {
-  font-size: $type-size-3;
-}
-
-div, p {
-  font-family: $global-font-family;
   font-size: $type-size-3;
 }
