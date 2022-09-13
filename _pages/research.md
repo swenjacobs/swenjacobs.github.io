@@ -9,6 +9,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+.page__lead {
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+}
 ---
 
 My research mission is to make it easier to obtain systems with reliable correctness guarantees.
