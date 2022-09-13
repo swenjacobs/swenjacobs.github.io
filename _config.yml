@@ -17,7 +17,7 @@ title: Swen Jacobs
 email: jacobs@cispa.de
 description: >- # this means to ignore newlines until "baseurl:"
   Tenure-track faculty at CISPA Helmholtz Center for Information Security. Formal Methods enthusiast. I have a tender spot in my heart for cripples and bastards and broken things.
-baseurl: https:swenjacobs.github.io
+#baseurl: https:swenjacobs.github.io
 twitter_username: JacobsSwen
 github_username: swenjacobs
 minimal_mistakes_skin: dark
