@@ -72,7 +72,7 @@ author:
       icon: "ai ai-fw ai-dblp"
       url: "https://dblp.org/pers/hd/j/Jacobs:Swen"
     - label: "Google Scholar"
-      icon: "ai ai-fw ai-google-scholar-square"
+      icon: "ai ai-fw ai-google-scholar"
       url: "https://scholar.google.de/citations?user=pofIiPIAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
