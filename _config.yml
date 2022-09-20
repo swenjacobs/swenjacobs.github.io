@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://swenjacobs.github.io"
 logo: "/assets/images/cispa.png"
 twitter_username: JacobsSwen
-github_username: swenjacobs
+#github_username: swenjacobs
 minimal_mistakes_skin: dark
 search: false
 
@@ -77,18 +77,18 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JacobsSwen"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/swenjacobs"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/swenjacobs"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JacobsSwen"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/swenjacobs"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/swenjacobs"
 
 defaults:
   # _posts
