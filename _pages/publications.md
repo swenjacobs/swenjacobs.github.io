@@ -35,3 +35,29 @@ defaults:
 * [Parameterized Synthesis of Self-Stabilizing Protocols in Symmetric Rings](https://doi.org/10.4230/LIPIcs.OPODIS.2018.29) (with N. Mirzaie, F. Faghih, B. Bonakdarpour), in OPODIS 2018.
 * [Design Understanding: From Logic to Specification](https://doi.org/10.1109/VLSI-SoC.2018.8644732) (with G. Fey, T. Ghasempouri, G. Martino, J. Raik, H. Riener), in VLSI-SoC 2018. ([author pdf](https://publications.cispa.saarland/2956/1/PID5492211.pdf))
 * [Analyzing Guarded Protocols: Better Cutoffs, More Systems, More Expressivity](https://doi.org/10.1007/978-3-319-73721-8_12) (with M. Sakr), in VMCAI 2018. ([arXiv preprint](https://arxiv.org/pdf/1707.01369))
+
+### 2017
+* [The 4th Reactive Synthesis Competition (SYNTCOMP 2017): Benchmarks, Participants & Results](https://doi.org/10.4204/EPTCS.260.10) (with SYNTCOMP co-organizers and participants), in SYNT 2017.
+* [Proceedings Sixth Workshop on Synthesis](https://dblp.org/db/series/eptcs/eptcs260.html) (with D. Fisman), 2017.
+* [The first reactive synthesis competition (SYNTCOMP 2014)](https://doi.org/10.1007/s10009-016-0416-3) (with SYNTCOMP co-organizers and participants), in STTT 19(3), 2017. ([arXiv preprint](https://arxiv.org/pdf/1506.08726))
+
+### 2016
+* [Decidability in Parameterized Verification](https://doi.org/10.1145/2951860.2951873) (with R. Bloem, A. Khalimov, I. Konnov, S. Rubin, H. Veith, J. Widder), in SIGACT News 47(2), 2016. ([author pdf](https://publications.cispa.saarland/1409/1/paper.pdf))
+* [Distributed PROMPT-LTL Synthesis](https://doi.org/10.4204/EPTCS.226.16) (with L. Tentrup, M. Zimmermann), in GandALF 2016.
+* [Synthesis of Self-Stabilising and Byzantine-Resilient Distributed Systems](https://link.springer.com/chapter/10.1007/978-3-319-41528-4_9) (with R. Bloem, N. Braud-Santoni), in CAV 2016. ([author pdf](https://publications.cispa.saarland/1410/1/writeup.pdf))
+* [A High-Level LTL Synthesis Format: TLSF v1.1](https://doi.org/10.4204/EPTCS.229.10) (with F. Klein, S. Schirmer), in SYNT 2016.
+* [The Reactive Synthesis Competition: SYNTCOMP 2016 and Beyond](https://doi.org/10.4204/EPTCS.229.11) (with R. Bloem), in SYNT 2016.
+* [The 3rd Reactive Synthesis Competition (SYNTCOMP 2016): Benchmarks, Participants & Results](https://doi.org/10.4204/EPTCS.229.12) (with SYNTCOMP co-organizers and participants), in SYNT 2016.
+* [Tight Cutoffs for Guarded Protocols with Fairness](https://doi.org/10.1007/978-3-662-49122-5_23) (with S. Ausserlechner, A. Khalimov), in VMCAI 2016. ([arXiv extended version](https://arxiv.org/pdf/1505.03273))
+
+### 2015
+* [Decidability of Parameterized Verification](https://doi.org/10.2200/S00658ED1V01Y201508DCT013) (with R. Bloem, A. Khalimov, I. Konnov, S. Rubin, H. Veith, J. Widder).
+* [The Second Reactive Synthesis Competition (SYNTCOMP 2015)](https://doi.org/10.4204/EPTCS.202.4) (with SYNCTOMP co-organizers and participants), in SYNT 2015.
+* [Assume-Guarantee Synthesis for Concurrent Reactive Programs with Partial Information](https://doi.org/10.1007/978-3-662-46681-0_50) (with R. Bloem, K. Chatterjee, R. Könighofer), in TACAS 2015.
+
+### 2014
+* [Parameterized Synthesis](https://doi.org/10.2168/LMCS-10(1:12)2014) (with R. Bloem), in LMCS 10(1), 2014.
+* [How to Handle Assumptions in Synthesis](https://doi.org/10.4204/EPTCS.157.7) (with R. Bloem, R. Ehlers, R. Könighofer), in SYNT 2014.
+* [Parameterized Synthesis Case Study: AMBA AHB](https://doi.org/10.4204/EPTCS.157.9) (with R. Bloem, A. Khalimov), in SYNT 2014.
+* [Parameterized Model Checking of Token-Passing Systems](https://doi.org/10.1007/978-3-642-54013-4_15) (with B. Aminof, A. Khalimov, S. Rubin), in VMCAI 2014. ([arXiv extended version](https://arxiv.org/pdf/1311.4425))
+* [Extended AIGER Format for Synthesis](http://arxiv.org/abs/1405.5793), on arXiv.
