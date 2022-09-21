@@ -61,3 +61,14 @@ defaults:
 * [Parameterized Synthesis Case Study: AMBA AHB](https://doi.org/10.4204/EPTCS.157.9) (with R. Bloem, A. Khalimov), in SYNT 2014.
 * [Parameterized Model Checking of Token-Passing Systems](https://doi.org/10.1007/978-3-642-54013-4_15) (with B. Aminof, A. Khalimov, S. Rubin), in VMCAI 2014. ([arXiv extended version](https://arxiv.org/pdf/1311.4425))
 * [Extended AIGER Format for Synthesis](http://arxiv.org/abs/1405.5793), on arXiv.
+
+### 2013
+* [PARTY Parameterized Synthesis of Token Rings](https://doi.org/10.1007/978-3-642-39799-8_66) (with A. Khalimov, R. Bloem), in CAV 2013.
+* [Reductions for Synthesis Procedures](https://doi.org/10.1007/978-3-642-35873-9_8) (with V. Kuncak, P. Suter), in VMCAI 2013. ([author pdf](http://swenjacobs.com/publications/VMCAI13b.pdf))
+* [Towards Efficient Parameterized Synthesis](https://doi.org/10.1007/978-3-642-35873-9_9) (with A. Khalimov, R. Bloem), in VMCAI 2013. ([author pdf](http://www.swenjacobs.com/publications/VMCAI13a.pdf))
+
+### 2012
+* [Parameterized Synthesis](https://doi.org/10.1007/978-3-642-28756-5_25) (with R. Bloem), in TACAS 2012.
+* [Lazy Synthesis](https://doi.org/10.1007/978-3-642-27940-9_15) (with B. Finkbeiner), in VMCAI 2012. ([author pdf](http://swenjacobs.com/publications/VMCAI12.pdf))
+
+### Pre-2012: Check [DBLP](https://dblp.org/pid/73/6880.html) or [Google Scholar](https://scholar.google.de/citations?user=pofIiPIAAAAJ)
