@@ -12,8 +12,8 @@ defaults:
 ---
 
 ### 2022
-* The Reactive Synthesis Competition (SYNTCOMP): 2018-2021 (with SYNTCOMP co-organizers and participants), under submission. ([arXiv preprint](https://doi.org/10.48550/arXiv.2206.00251))
-* Synthesis of Distributed Agreement-Based Systems with Efficiently-Decidable Parameterized Verification (with N. Jaber, C. Wagner, M. Kulkarni, R. Samanta), under submission. ([arXiv preprint](https://doi.org/10.48550/arXiv.2208.12400))
+* The Reactive Synthesis Competition (SYNTCOMP): 2018-2021 (with SYNTCOMP co-organizers and participants), under review. ([arXiv preprint](https://doi.org/10.48550/arXiv.2206.00251))
+* Synthesis of Distributed Agreement-Based Systems with Efficiently-Decidable Parameterized Verification (with N. Jaber, C. Wagner, M. Kulkarni, R. Samanta), under review. ([arXiv preprint](https://doi.org/10.48550/arXiv.2208.12400))
 * Automatic Repair and Deadlock Detection for Parameterized Systems (with M. Sakr, M. Völp), in FMCAD 2022, to appear. ([arXiv preprint](https://arxiv.org/abs/2111.03322))
 
 ### 2021
