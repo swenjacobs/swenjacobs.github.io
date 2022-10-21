@@ -15,6 +15,8 @@ I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security]
 
 # News
 
+**October 2022:** We will have a special issue of the **Journal of Parallel and Distributed Computing** on [***Dependability and Scalability of Distributed Systems in the Presence of Faults and Security Threats***](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing/about/forthcoming-special-issues#dependability-and-scalability-of-distributed-systems-in-the-presence-of-faults-and-security-threats). Submission deadline is February 5, 2023.
+
 **October 2022:** Mouhammad Sakr presents our joint work (with Marcus Völp) [Automatic Repair and Deadlock Detection for Parameterized Systems](https://arxiv.org/abs/2111.03322) at [FMCAD 2022](https://fmcad.org/FMCAD22/accepted/) in Trento.
 
 **September 2022:** Created this page.
