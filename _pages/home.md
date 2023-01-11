@@ -15,7 +15,7 @@ I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security]
 
 # News
 
-**December 2022:** Our work [*Synthesis of Distributed Agreement-Based Systems with Efficiently-Decidable Verification*](https://doi.org/10.48550/arXiv.2208.12400) (with Nouraldin Jaber, Christopher Wagner, Milind Kulkarni and Roopsha Samantahas) been accepted for publication at **TACAS 2023**.
+**December 2022:** Our work [*Synthesis of Distributed Agreement-Based Systems with Efficiently-Decidable Verification*](https://doi.org/10.48550/arXiv.2208.12400) (with Nouraldin Jaber, Christopher Wagner, Milind Kulkarni and Roopsha Samanta) has been accepted for publication at **TACAS 2023**.
 
 **October 2022:** We will have a special issue of the **Journal of Parallel and Distributed Computing** on [***Dependability and Scalability of Distributed Systems in the Presence of Faults and Security Threats***](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing/about/forthcoming-special-issues#dependability-and-scalability-of-distributed-systems-in-the-presence-of-faults-and-security-threats). Submission deadline is February 5, 2023.
 
