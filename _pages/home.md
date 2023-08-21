@@ -15,6 +15,8 @@ I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security]
 
 # News
 
+**August 2023:** We have [*open positions*](/positions) for PhD students and postdocs.
+
 **July 2023:** We have presented the [*results of the 10th Reactive Synthesis competition SYNTCOMP*](http://www.syntcomp.org/syntcomp-2023-results/) at the Synthesis Workshop (SYNT) and the Conference on Computer-Aided Verification (CAV) in Paris, France.
 
 **July 2023:** Our project [*Global Synchronization Protocols and Proving their Correctness*](https://swenjacobs.github.io/research/#global-synchronization-protocols-and-proving-their-correctness) has officially started its research into advanced properties of GSPs.
