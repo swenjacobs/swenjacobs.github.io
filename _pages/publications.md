@@ -12,15 +12,15 @@ defaults:
 ---
 
 ### 2023
+* [Synthesis of Distributed Agreement-Based Systems with Efficiently-Decidable Parameterized Verification](https://doi.org/10.1007/978-3-031-30820-8_19) (with N. Jaber, C. Wagner, M. Kulkarni, R. Samanta), in TACAS 2023.
 * Learning Broadcast Protocols (with D. Fisman, N. Izsak), under review. ([arXiv preprint](https://doi.org/10.48550/arXiv.2306.14284))
 * Automatic and Incremental Repair for Speculative Information Leaks (with J. Bard, Y. Vizel), under review. ([arXiv preprint](https://doi.org/10.48550/arXiv.2305.10092))
 * Parameterized Verification of Disjunctive Timed Networks (with 	É. André, P. Eichler, S. L. Karra), under review. ([arXiv preprint](https://doi.org/10.48550/arXiv.2305.07295))
-* [Synthesis of Distributed Agreement-Based Systems with Efficiently-Decidable Parameterized Verification](https://doi.org/10.1007/978-3-031-30820-8_19) (with N. Jaber, C. Wagner, M. Kulkarni, R. Samanta), in TACAS 2023.
 * The Temporal Logic Synthesis Format TLSF v1.2 (with G.A. Pérez, P. Schlehuber-Caissier). ([arXiv preprint](https://doi.org/10.48550/arXiv.2303.03839))
 
 ### 2022
 * The Reactive Synthesis Competition (SYNTCOMP): 2018-2021 (with SYNTCOMP co-organizers and participants), under review. ([arXiv preprint](https://doi.org/10.48550/arXiv.2206.00251))
-* Automatic Repair and Deadlock Detection for Parameterized Systems (with M. Sakr, M. Völp), in FMCAD 2022, to appear. ([arXiv preprint](https://arxiv.org/abs/2111.03322))
+* [Automatic Repair and Deadlock Detection for Parameterized Systems](https://doi.org/10.34727/2022/isbn.978-3-85448-053-2_29) (with M. Sakr, M. Völp), in FMCAD 2022.
 
 ### 2021
 * [QuickSilver: modeling and parameterized verification for distributed agreement-based systems](https://dl.acm.org/doi/10.1145/3485534) (with N. Jaber, C. Wagner, M. Kulkarni, R. Samanta), in OOPSLA 2021.
