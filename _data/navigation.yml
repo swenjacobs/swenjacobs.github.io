@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Research"
     url: /research/
+  - title: "Open Positions"
+    url: /positions/
   - title: "Teaching"
     url: /teaching/
   - title: "Publications"
