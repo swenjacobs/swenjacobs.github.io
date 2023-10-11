@@ -15,6 +15,8 @@ I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security]
 
 # News
 
+**October 2023:** Our works [*Parameterized Verification of Disjunctive Timed Networks*](https://arxiv.org/abs/2305.07295) (with Étienne André, Paul Eichler and Shyam Lal Karra) and [*Automatic and Incremental Repair for Speculative Information Leaks*](https://arxiv.org/abs/2305.10092) (with Joachim Bard and Yakir Vizel) have been accepted for publication at **VMCAI 2024**.
+
 **August 2023:** We have [*open positions*](/positions) for PhD students and postdocs.
 
 **July 2023:** We have presented the [*results of the 10th Reactive Synthesis competition SYNTCOMP*](http://www.syntcomp.org/syntcomp-2023-results/) at the Synthesis Workshop (SYNT) and the Conference on Computer-Aided Verification (CAV) in Paris, France.
