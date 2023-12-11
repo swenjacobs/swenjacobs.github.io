@@ -15,6 +15,8 @@ I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security]
 
 # News
 
+**December 2023:** Our work [*Learning Broadcast Protocols*](https://arxiv.org/abs/2306.14284) (with Dana Fisman and Noa Izsak) has been accepted for publication at **AAAI 2024**.
+
 **October 2023:** Our works [*Parameterized Verification of Disjunctive Timed Networks*](https://arxiv.org/abs/2305.07295) (with Étienne André, Paul Eichler and Shyam Lal Karra) and [*Automatic and Incremental Repair for Speculative Information Leaks*](https://arxiv.org/abs/2305.10092) (with Joachim Bard and Yakir Vizel) have been accepted for publication at **VMCAI 2024**.
 
 **August 2023:** We have [*open positions*](/positions) for PhD students and postdocs.
