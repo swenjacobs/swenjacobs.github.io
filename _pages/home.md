@@ -14,6 +14,9 @@ defaults:
 I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security](https://www.cispa.de) in Saarbrücken, Germany. My main research interests are in formal verification and synthesis, with a focus on parameterized systems, and more recently on security properties in the presence of side channels.
 
 # News
+**April 2024:** Our work [*The Reactive Synthesis Competition (SYNTCOMP): 2018–2021*](https://arxiv.org/abs/2206.00251) (with Guillermo Perez and all the competition participants) has been accepted for publication in **STTT**.
+
+**April 2024:** We have presented our works-in-progress ***Parameterized Verification of Systems with Precise (0, 1)-Counter Abstraction*** and ***Parameterized Verification of Timed Networks with Lossy Broadcast and Clock Invariants*** at the Workshop on Synthesis of Complex Parameters (SynCoP) in Luxemburg.
 
 **December 2023:** Our work [*Learning Broadcast Protocols*](https://arxiv.org/abs/2306.14284) (with Dana Fisman and Noa Izsak) has been accepted for publication at **AAAI 2024**.
 
