@@ -12,18 +12,20 @@ defaults:
 ---
 
 ### 2024
-* Learning Broadcast Protocols with LeoParDS (with N. Izsak and D. Fisman), in ATVA 2024, to appear.
-* Parameterized Verification of Round-based Distributed Algorithms via Extended Threshold Automata (with T. Baumeister, P. Eichler, M. Sakr and M. Völp), in FM 2024, to appear. ([arXiv preprint](https://doi.org/10.48550/arXiv.2406.19880))
+* **Learning Broadcast Protocols with LeoParDS** (with N. Izsak and D. Fisman), in ATVA 2024, to appear.
+* **Parameterized Verification of Round-based Distributed Algorithms via Extended Threshold Automata** (with T. Baumeister, P. Eichler, M. Sakr and M. Völp), in FM 2024, to appear. ([arXiv preprint](https://doi.org/10.48550/arXiv.2406.19880))
 * [The Reactive Synthesis Competition (SYNTCOMP): 2018–2021](https://doi.org/10.1007/s10009-024-00754-1) (with G. Perez and 23 tool authors), in STTT (2024). ([arXiv preprint](https://doi.org/10.48550/arXiv.2206.00251))
 * [Learning Broadcast Protocols](https://doi.org/10.1609/aaai.v38i11.29089) (with D. Fisman, N. Izsak), in AAAI 2024. ([arXiv preprint](https://doi.org/10.48550/arXiv.2306.14284))
-* [Automatic and Incremental Repair for Speculative Information Leaks](https://doi.org/10.1007/978-3-031-50521-8_14) (with J. Bard, Y. Vizel), in VMCAI 2024, to appear. ([arXiv preprint](https://doi.org/10.48550/arXiv.2305.10092))
-* [Parameterized Verification of Disjunctive Timed Networks](https://doi.org/10.1007/978-3-031-50524-9_6) (with 	É. André, P. Eichler, S. L. Karra), in VMCAI 2024, to appear. ([arXiv preprint](https://doi.org/10.48550/arXiv.2305.07295))
+* [Automatic and Incremental Repair for Speculative Information Leaks](https://doi.org/10.1007/978-3-031-50521-8_14) (with J. Bard, Y. Vizel), in VMCAI 2024. ([arXiv preprint](https://doi.org/10.48550/arXiv.2305.10092))
+* [Parameterized Verification of Disjunctive Timed Networks](https://doi.org/10.1007/978-3-031-50524-9_6) (with 	É. André, P. Eichler, S. L. Karra), in VMCAI 2024. ([arXiv preprint](https://doi.org/10.48550/arXiv.2305.07295))
 
 ### 2023
 * [Synthesis of Distributed Agreement-Based Systems with Efficiently-Decidable Parameterized Verification](https://doi.org/10.1007/978-3-031-30820-8_19) (with N. Jaber, C. Wagner, M. Kulkarni, R. Samanta), in TACAS 2023.
-* The Temporal Logic Synthesis Format TLSF v1.2 (with G.A. Pérez, P. Schlehuber-Caissier). ([arXiv preprint](https://doi.org/10.48550/arXiv.2303.03839))
+* [Unifying Formal Methods for Trustworthy Distributed Systems (Dagstuhl Seminar 23112)](https://doi.org/10.4230/DagRep.13.3.32) (with K. McMillan, R. Samanta, I. Sergey), Dagstuhl Reports 13(3).
+* **The Temporal Logic Synthesis Format TLSF v1.2** (with G.A. Pérez, P. Schlehuber-Caissier). ([arXiv preprint](https://doi.org/10.48550/arXiv.2303.03839))
 
 ### 2022
+* [Current Challenges in Reliable and Secure Clock Synchronization](http://eatcs.org/beatcs/index.php/beatcs/article/view/729) (with C. Lenzen), in Bulletin of the EATCS, Volume 138.
 * [Automatic Repair and Deadlock Detection for Parameterized Systems](https://doi.org/10.34727/2022/isbn.978-3-85448-053-2_29) (with M. Sakr, M. Völp), in FMCAD 2022.
 
 ### 2021
