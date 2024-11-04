@@ -13,7 +13,7 @@ defaults:
 
 ### 2024
 * **Learning Broadcast Protocols with LeoParDS** (with N. Izsak and D. Fisman), in ATVA 2024, to appear.
-* **Parameterized Verification of Round-based Distributed Algorithms via Extended Threshold Automata** (with T. Baumeister, P. Eichler, M. Sakr and M. Völp), in FM 2024, to appear. ([arXiv preprint](https://doi.org/10.48550/arXiv.2406.19880))
+* [Parameterized Verification of Round-based Distributed Algorithms via Extended Threshold Automata](https://doi.org/10.1007/978-3-031-71162-6_33) (with T. Baumeister, P. Eichler, M. Sakr and M. Völp), in FM 2024. ([arXiv preprint](https://doi.org/10.48550/arXiv.2406.19880))
 * [The Reactive Synthesis Competition (SYNTCOMP): 2018–2021](https://doi.org/10.1007/s10009-024-00754-1) (with G. Perez and 23 tool authors), in STTT (2024). ([arXiv preprint](https://doi.org/10.48550/arXiv.2206.00251))
 * [Learning Broadcast Protocols](https://doi.org/10.1609/aaai.v38i11.29089) (with D. Fisman, N. Izsak), in AAAI 2024. ([arXiv preprint](https://doi.org/10.48550/arXiv.2306.14284))
 * [Automatic and Incremental Repair for Speculative Information Leaks](https://doi.org/10.1007/978-3-031-50521-8_14) (with J. Bard, Y. Vizel), in VMCAI 2024. ([arXiv preprint](https://doi.org/10.48550/arXiv.2305.10092))
