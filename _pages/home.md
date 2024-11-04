@@ -20,7 +20,7 @@ I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security]
 
 **June 2024:** Our work [*The Reactive Synthesis Competition (SYNTCOMP): 2018–2021*](https://doi.org/10.1007/s10009-024-00754-1) (with Guillermo Perez and all the competition participants) has been published in **STTT**. ([arxiv preprint](https://arxiv.org/abs/2206.00251))
 
-**April 2024:** We have presented our works-in-progress ***Parameterized Verification of Systems with Precise (0, 1)-Counter Abstraction*** and ***Parameterized Verification of Timed Networks with Lossy Broadcast and Clock Invariants*** at the Workshop on Synthesis of Complex Parameters (SynCoP) in Luxemburg.
+**April 2024:** We have presented our works-in-progress ***Parameterized Verification of Systems with Precise (0, 1)-Counter Abstraction*** ([arxiv preprint](https://doi.org/10.48550/arXiv.2408.05954)) and ***Parameterized Verification of Timed Networks with Lossy Broadcast and Clock Invariants*** ([arxiv preprint](https://doi.org/10.48550/arXiv.2408.05190)) at the Workshop on Synthesis of Complex Parameters (SynCoP) in Luxemburg.
 
 **December 2023:** Our work [*Learning Broadcast Protocols*](https://arxiv.org/abs/2306.14284) (with Dana Fisman and Noa Izsak) has been accepted for publication at **AAAI 2024**.
 
