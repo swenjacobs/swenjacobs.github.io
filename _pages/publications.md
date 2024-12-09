@@ -10,6 +10,9 @@ defaults:
       layout: single
       author_profile: true
 ---
+### 2025
+
+* **Parameterized Verification of Systems with Precise (0,1)-Counter Abstraction** (with P. Eichler and C. Weil-Kennedy), in VMCAI 2025, to appear. ([arXiv preprint](https://doi.org/10.48550/arXiv.2408.05954))
 
 ### 2024
 * **Learning Broadcast Protocols with LeoParDS** (with N. Izsak and D. Fisman), in ATVA 2024, to appear.
