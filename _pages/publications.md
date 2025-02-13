@@ -12,10 +12,11 @@ defaults:
 ---
 ### 2025
 
-* **Parameterized Verification of Systems with Precise (0,1)-Counter Abstraction** (with P. Eichler and C. Weil-Kennedy), in VMCAI 2025, to appear. ([arXiv preprint](https://doi.org/10.48550/arXiv.2408.05954))
+* **Automatic WSTS-based Repair and Deadlock Detection of Parameterized Systems** (with T. Baumeister, M. Sakr and M. Völp), in Formal Methods in System Design, to appear, 2025.
+* [Parameterized Verification of Systems with Precise (0,1)-Counter Abstraction](https://doi.org/10.1007/978-3-031-82700-6_5) (with P. Eichler and C. Weil-Kennedy), in VMCAI 2025. ([arXiv preprint](https://doi.org/10.48550/arXiv.2408.05954))
 
 ### 2024
-* **Learning Broadcast Protocols with LeoParDS** (with N. Izsak and D. Fisman), in ATVA 2024, to appear.
+* [Learning Broadcast Protocols with LeoParDS](https://doi.org/10.1007/978-3-031-78709-6_11) (with N. Izsak and D. Fisman), in ATVA 2024.
 * [Parameterized Verification of Round-based Distributed Algorithms via Extended Threshold Automata](https://doi.org/10.1007/978-3-031-71162-6_33) (with T. Baumeister, P. Eichler, M. Sakr and M. Völp), in FM 2024. ([arXiv preprint](https://doi.org/10.48550/arXiv.2406.19880))
 * [The Reactive Synthesis Competition (SYNTCOMP): 2018–2021](https://doi.org/10.1007/s10009-024-00754-1) (with G. Perez and 23 tool authors), in STTT (2024). ([arXiv preprint](https://doi.org/10.48550/arXiv.2206.00251))
 * [Learning Broadcast Protocols](https://doi.org/10.1609/aaai.v38i11.29089) (with D. Fisman, N. Izsak), in AAAI 2024. ([arXiv preprint](https://doi.org/10.48550/arXiv.2306.14284))
