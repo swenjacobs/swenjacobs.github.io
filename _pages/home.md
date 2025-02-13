@@ -14,6 +14,8 @@ defaults:
 I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security](https://www.cispa.de) in Saarbrücken, Germany. My main research interests are in formal verification and synthesis, with a focus on parameterized systems, and more recently on security properties in the presence of side channels.
 
 # News
+**February 2025:** Our work *Automatic WSTS-based Repair and Deadlock Detection of Parameterized Systems* (with Tom Baumeister, Mouhammad Sakr and Marcus Völp) has been accepted for publication in **Formal Methods in System Design**.
+
 **November 2024:** Our work *Parameterized Verification of Systems with Precise (0,1)-Counter Abstraction* (with Paul Eichler and Chana Weil-Kennedy) has been accepted for publication at ***VMCAI 2025*** ([arxiv preprint](https://doi.org/10.48550/arXiv.2408.05954)).
 
 **June 2024:** Our work *Learning Broadcast Protocols with LeoParDS* (with Noa Izsak and Dana Fisman) has been accepted for publication at ***ATVA 2024***. 
