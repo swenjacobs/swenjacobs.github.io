@@ -11,8 +11,14 @@ defaults:
       author_profile: true
 ---
 
+### Summer 2025
+* Seminar: Verification of Distributed Systems
+
+### Summer 2024
+* Advanced Lecture: [Parameterized Verification](https://cms.cispa.saarland/pv24)
+
 ### Winter 2022/23
-* Seminar: Verification of Distributed Systems ([Register until October 26](https://seminars.cs.uni-saarland.de/seminars2223))
+* Seminar: Verification of Distributed Systems
 
 ### Summer 2022
 * Advanced Lecture: [Parameterized Verification](https://cms.cispa.saarland/pv22)
