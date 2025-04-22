@@ -12,7 +12,7 @@ defaults:
 ---
 ### 2025
 
-* **Automatic WSTS-based Repair and Deadlock Detection of Parameterized Systems** (with T. Baumeister, M. Sakr and M. Völp), in Formal Methods in System Design, to appear, 2025.
+* [Automatic WSTS-based Repair and Deadlock Detection of Parameterized Systems](https://rdcu.be/eilgA) (with T. Baumeister, M. Sakr and M. Völp), in Formal Methods in System Design (2025).
 * [Parameterized Verification of Systems with Precise (0,1)-Counter Abstraction](https://doi.org/10.1007/978-3-031-82700-6_5) (with P. Eichler and C. Weil-Kennedy), in VMCAI 2025. ([arXiv preprint](https://doi.org/10.48550/arXiv.2408.05954))
 
 ### 2024
