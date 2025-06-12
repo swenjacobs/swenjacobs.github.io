@@ -22,8 +22,4 @@ Experience in distributed systems, automated reasoning, or techniques for learni
 
 If you are interested in a position, let me know at jacobs@cispa.de.
 
-[comment]: # (
-For more information on how to apply, as well as formal requirements, please check the link that matches your interest:
-* [prospective PhD student](https://jobs.cispa.saarland/de_DE/jobs/detail/phd-students-1)
-* [prospective Postdoc](https://jobs.cispa.saarland/de_DE/jobs/detail/postdoctoral-researchers-3)
-)
+[comment]: # (For more information on how to apply, as well as formal requirements, please check the link that matches your interest:)
