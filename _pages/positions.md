@@ -20,6 +20,6 @@ Overall, our mission is to make it easier to obtain systems with reliable correc
 A candidate for a position in my group must have a strong theoretical background, with experience and a keen interest in formal methods such as model checking, formal synthesis, or related topics.
 Experience in distributed systems, automated reasoning, or techniques for learning formal languages is a plus.
 
-If you are interested in a position, let me know at jacobs@cispa.de.
+Applications for the postdoc position are open [here](https://career.cispa.de/de/jobs/postdoc-position-in-formal-methods-for-concurrent-distributed-systems-m-f-d-group-jacobs-43). If you are interested in a PhD position, let me know at jacobs@cispa.de.
 
 [comment]: # (For more information on how to apply, as well as formal requirements, please check the link that matches your interest:)
