@@ -11,7 +11,7 @@ defaults:
       author_profile: true
 ---
 
-I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security](https://www.cispa.de) in Saarbrücken, Germany. My main research interests are in formal verification and synthesis, with a focus on parameterized systems, and more recently on security properties in the presence of side channels.
+I am a faculty member at [CISPA Helmholtz Center for Information Security](https://www.cispa.de) in Saarbrücken, Germany. My main research interests are in formal verification and synthesis, with a focus on parameterized systems, and more recently on formal learning and on security properties in the presence of side channels.
 
 # News
 **February 2025:** Our work *Automatic WSTS-based Repair and Deadlock Detection of Parameterized Systems* (with Tom Baumeister, Mouhammad Sakr and Marcus Völp) has been accepted for publication in **Formal Methods in System Design**.
