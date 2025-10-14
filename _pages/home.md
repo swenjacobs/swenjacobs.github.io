@@ -14,6 +14,14 @@ defaults:
 I am a faculty member at [CISPA Helmholtz Center for Information Security](https://www.cispa.de) in Saarbrücken, Germany. My main research interests are in formal verification and synthesis, with a focus on parameterized systems, and more recently on formal learning and on security properties in the presence of side channels.
 
 # News
+**October 2025:** [Noa Izsak](https://noa-izsak.github.io) has joined the RAD group as a PhD student.
+
+**September 2025:** RAD alumni Mouhammad Sakr is now an **assistant professor at the [American University of Beirut](https://www.aub.edu/pages/profile.aspx?MemberId=ms186)**.
+
+**September 2025:** Our work *Parameterized Verification of Timed Networks with Clock Invariants* (with Etienne Andre, Shyam Lal Karra and Ocan Sankur) has been accepted for publication at ***FSTTCS 2025*** ([arxic preprint](https://arxiv.org/abs/2408.05190))
+
+**July 2025:** I have been granted tenure at CISPA :sun_with_face:
+
 **February 2025:** Our work *Automatic WSTS-based Repair and Deadlock Detection of Parameterized Systems* (with Tom Baumeister, Mouhammad Sakr and Marcus Völp) has been accepted for publication in **Formal Methods in System Design**.
 
 **November 2024:** Our work *Parameterized Verification of Systems with Precise (0,1)-Counter Abstraction* (with Paul Eichler and Chana Weil-Kennedy) has been accepted for publication at ***VMCAI 2025*** ([arxiv preprint](https://doi.org/10.48550/arXiv.2408.05954)).
