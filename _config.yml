@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Swen Jacobs"
   avatar : "/assets/images/sj-cut.png"
-  bio    : "Tenure-track faculty at CISPA. Formal Methods Enthusiast."
+  bio    : "Tenured faculty at CISPA. Formal Methods Enthusiast."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-at"
