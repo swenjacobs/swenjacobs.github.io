@@ -14,6 +14,8 @@ defaults:
 I am a faculty member at [CISPA Helmholtz Center for Information Security](https://www.cispa.de) in Saarbrücken, Germany. My main research interests are in formal verification and synthesis, with a focus on parameterized systems, and more recently on formal learning and on security properties in the presence of side channels.
 
 # News
+**October 2025:** Our work "Parametric Disjunctive Timed Networks" (with Etienne Andre and Engel Lefaucheux) has been accepted for publication at ***CSL 2026***.
+
 **October 2025:** [Noa Izsak](https://noa-izsak.github.io) has joined the RAD group as a PhD student.
 
 **September 2025:** RAD alumni Mouhammad Sakr is now an **assistant professor at the [American University of Beirut](https://www.aub.edu/pages/profile.aspx?MemberId=ms186)**.
