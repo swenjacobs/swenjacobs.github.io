@@ -11,10 +11,14 @@ defaults:
       author_profile: true
 ---
 
-I am a faculty member at [CISPA Helmholtz Center for Information Security](https://www.cispa.de) in Saarbrücken, Germany. My main research interests are in formal verification and synthesis, with a focus on parameterized systems, and more recently on formal learning and on security properties in the presence of side channels.
+I am a tenured faculty member at [CISPA Helmholtz Center for Information Security](https://www.cispa.de) in Saarbrücken, Germany. My main research interests are in formal verification and synthesis, with a focus on parameterized systems, and more recently on formal learning and on security properties in the presence of side channels.
 
 # News
-**October 2025:** Our work "Parametric Disjunctive Timed Networks" (with Etienne Andre and Engel Lefaucheux) has been accepted for publication at ***CSL 2026***.
+**April 2026:** Our work *TACO: A Toolsuite for the Verification of Threshold Automata* (with Paul Eichler, Tom Baumeister, Mouhammad Sakr, Mahboubeh Kalateh Dowlati and Marcus Völp) has been accepted for publication at ***CAV 2026***. A reproduction package including the submitted paper is available on [Zenodo](https://zenodo.org/records/18233866).
+
+***January 2026:** We have published our toolsuite TACO for the design and verification of distributed algorithms in the form of threshold automata. It is available on [crates.io](https://crates.io/) and the documentation can be found at [taco-mc.dev](https://taco-mc.dev).
+
+**October 2025:** Our work *Parametric Disjunctive Timed Networks* (with Etienne Andre and Engel Lefaucheux) has been accepted for publication at ***CSL 2026***.
 
 **October 2025:** [Noa Izsak](https://noa-izsak.github.io) has joined the RAD group as a PhD student.
 
