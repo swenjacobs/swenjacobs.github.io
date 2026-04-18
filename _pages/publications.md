@@ -11,10 +11,11 @@ defaults:
       author_profile: true
 ---
 ### 2026
-* Parametric Disjunctive Timed Networks (with E. Andre and E. Lefaucheux), in CSL 2026 (to appear).
+* **TACO: A Toolsuite for the Verification of Threshold Automata** (with P. Eichler, T. Baumeister, M.K. Dowlati, M. Sakr and M. Völp), in CAV 2026 (to appear). [Reproduction package](https://zenodo.org/records/18233866) (includes submitted paper).
+* [Parametric Disjunctive Timed Networks](https://doi.org/10.4230/LIPIcs.CSL.2026.31) (with E. Andre and E. Lefaucheux), in CSL 2026.
 
 ### 2025
-* Parameterized Verification of Timed Networks with Clock Invariants (with E. Andre, S.L. Karra and O. Sankur), in FSTTCS 2025. ([arXiv preprint](https://arxiv.org/abs/2408.05190))
+* [Parameterized Verification of Timed Networks with Clock Invariants](https://doi.org/10.4230/LIPIcs.FSTTCS.2025.8) (with E. Andre, S.L. Karra and O. Sankur), in FSTTCS 2025. ([arXiv preprint](https://arxiv.org/abs/2408.05190))
 * [Automatic WSTS-based Repair and Deadlock Detection of Parameterized Systems](https://rdcu.be/eilgA) (with T. Baumeister, M. Sakr and M. Völp), in Formal Methods in System Design (2025).
 * [Parameterized Verification of Systems with Precise (0,1)-Counter Abstraction](https://doi.org/10.1007/978-3-031-82700-6_5) (with P. Eichler and C. Weil-Kennedy), in VMCAI 2025. ([arXiv preprint](https://doi.org/10.48550/arXiv.2408.05954))
 
